@@ -1,0 +1,15 @@
+[project]
+name = "investigacion-pelican"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "invoke>=2.2.1",
+    "livereload>=2.7.1",
+    "pelican[markdown]>=4.11.0",
+]
+
+[tool.uv.workspace]
+members = [
+    "pelican",
+    "tee1.3",
+]
