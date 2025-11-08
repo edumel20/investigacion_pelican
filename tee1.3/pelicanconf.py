@@ -1,8 +1,11 @@
-AUTHOR = '.'
-SITENAME = 'consultoria'
-SITEURL = ""
+AUTHOR = 'La huerta de Guayota'
+SITENAME = 'lahuertadeguayota'
+SITEURL = ''
 
-PATH = "content"
+PATH = 'content'
+PAGE_PATHS = ['pages']
+THEME = 'pelican-mediumfox'
+STATIC_PATHS = ['images']
 
 TIMEZONE = 'Europe/London'
 
@@ -17,19 +20,19 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
+    ('Pelican', 'https://getpelican.com/'),
+    ('Python.org', 'https://www.python.org/'),
+    ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
+    ('You can modify those links in your config file', '#'),
 )
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+    ('You can add links in your config file', '#'),
+    ('Another social link', '#'),
 )
 
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
