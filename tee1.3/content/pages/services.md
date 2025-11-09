@@ -1,5 +1,5 @@
-Title: Servicios
-Slug: servicios
+Title: Services
+Slug: services
 
 Ofrecemos soluciones adaptadas a cada cliente:
 

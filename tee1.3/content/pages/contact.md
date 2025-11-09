@@ -1,5 +1,5 @@
-Title: Contacto
-Slug: contacto
+Title: Contact
+Slug: contacts
 
 ¿Quieres impulsar tu presencia digital?
 

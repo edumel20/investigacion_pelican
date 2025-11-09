@@ -1,8 +1,9 @@
 AUTHOR = 'La huerta de Guayota'
-SITENAME = 'lahuertadeguayota'
+SITENAME = 'La Huerta de Guayota'
 SITEURL = ''
 
 PATH = 'content'
+ARTICLE_PATHS = []
 PAGE_PATHS = ['pages']
 THEME = 'pelican-mediumfox'
 STATIC_PATHS = ['images']
@@ -11,6 +12,7 @@ TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'es'
 
+THEME = 'themes/eevee'
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
