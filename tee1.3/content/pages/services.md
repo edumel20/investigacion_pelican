@@ -47,13 +47,9 @@ Te asesoramos en decisiones clave para que tu entorno digital sea estable, segur
 
 Un vistazo a lo que hemos cultivado con nuestros clientes:
 
-<div align="center">
-
 ![Ejemplo 1]({static}/images/ejemplo1.png)
 ![Ejemplo 2]({static}/images/ejemplo2.png)
 ![Ejemplo 3]({static}/images/ejemplo3.png)
-
-</div>
 
 ---
 
